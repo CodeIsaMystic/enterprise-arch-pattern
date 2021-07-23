@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/managing-complexity-hero.png" alt="managing-complexity-hero-pic">
+  <img src="../assets/managing-complexity-hero.png" alt="managing-complexity-hero-pic">
 
 </div>
 
@@ -57,7 +57,7 @@ approcher les problématiques de la bonne manière selon la difficulté.
 
 ## Compléxité & Routine
 
-<img src="assets/quote2.png" alt="quote about testing bad code">
+<img src="../assets/quote2.png" alt="quote about testing bad code">
 
 <br> 
 

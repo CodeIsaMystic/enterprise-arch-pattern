@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/local-complexity.png" alt="local-complexity-hero-pic">
+  <img src="../assets/local-complexity.png" alt="local-complexity-hero-pic">
 
 </div>
 
@@ -36,8 +36,8 @@ La compléxité **au niveau de ou des application(s)**
 
 ## DEPENDENCY INJECTION & EXTRACT METHOD
 
-<img src="assets/dependency-injection.png" alt="dependency injection title">
-<img src="assets/extract-method.png" alt="extract method title">
+<img src="../assets/dependency-injection.png" alt="dependency injection title">
+<img src="../assets/extract-method.png" alt="extract method title">
 
 
 
@@ -71,7 +71,7 @@ et vont établir la même logique à chaque fois.
 ## Testing those
 
 
-<img src="assets/quote1.png" alt="quote about doing good practice in code">
+<img src="../assets/quote1.png" alt="quote about doing good practice in code">
 
 The **specifics Methods are easy to tests**, put in an "input" and expecting the "output"
 result.
